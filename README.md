@@ -2,4 +2,4 @@
 
 ## Phoebe Kinzelman
 
-Email: [phoebekinzelman@u.boisestate.edu](phoebekinzelman@u.boisestate.edu)
+Email: [phoebekinzelman@u.boisestate.edu](mailto:phoebekinzelman@u.boisestate.edu)
