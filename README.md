@@ -1,4 +1,4 @@
-# GEOS 505: Research Computing in the Earth & Environmental Sciences
+# GEOS 505: Research Computing in the Earth & Environmental Sciences 💻
 
 ## Phoebe Kinzelman
 
